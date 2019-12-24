@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashActivity"
+    android:background="#2E2E2E">
+
+    <me.wangyuwei.particleview.ParticleView
+        android:id="@+id/particle_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:pv_background_color="#2E2E2E"
+        app:pv_host_text="LittleVideo"
+        app:pv_host_text_size="24sp"
+        app:pv_particle_text="1.0"
+        app:pv_particle_text_size="24sp"
+        app:pv_text_color="#FFF" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
