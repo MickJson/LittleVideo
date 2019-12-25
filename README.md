@@ -1,0 +1,8 @@
+# LittleVideo
+Android短视频滑动播放
+
+主要介绍采用RecyclerView配合PagerSnapHelper实现短视频滑动播放内容。
+
+PagerSnapHelper可以帮助实现与以下类似的行为 ViewPager。 将RecyclerView和RecyclerView.Adapter的项目都设置为具
+有android.view.ViewGroup.LayoutParams＃MATCH_PARENT的高度和宽度，然后使用#attachToRecyclerView（RecyclerView）}
+将PagerSnapHelper附加到RecyclerView。
