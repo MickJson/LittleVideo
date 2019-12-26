@@ -8,6 +8,8 @@ import com.chad.library.adapter.base.BaseViewHolder;
 import com.congren.littlevideo.R;
 import com.congren.littlevideo.bean.VideoBean;
 
+import java.util.ArrayList;
+
 /**
  * @author 几圈年轮
  * @date 2019/12/18.
@@ -16,7 +18,7 @@ import com.congren.littlevideo.bean.VideoBean;
 public class LittleVideoAdapter extends BaseQuickAdapter<VideoBean, BaseViewHolder> {
 
     public LittleVideoAdapter() {
-        super(R.layout.littlevideo_recyclerview_item, VideoBean.getTikTokVideoList());
+        super(R.layout.littlevideo_recyclerview_item, new ArrayList<>());
     }
 
     @Override

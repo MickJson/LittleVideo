@@ -45,4 +45,6 @@ dependencies {
 
     // 视频播放器
     implementation 'com.shuyu:GSYVideoPlayer:7.1.2'
+
+    implementation 'com.google.android.material:material:1.0.0'
 }

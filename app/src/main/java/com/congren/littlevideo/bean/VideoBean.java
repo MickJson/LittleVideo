@@ -60,10 +60,6 @@ public class VideoBean {
                     "http://123.125.244.84/v.weishi.qq.com/tjg_660467533_1047_88ae7ef740f14486872229d22dd5vide.f20.mp4"));
 
             videoList.add(new VideoBean("",
-                    "http://xp.qpic.cn/oscar_pic/0/1047_63383966313334352d623962322pict/480",
-                    "http://123.125.244.84/v.weishi.qq.com/shg_1634039903_1047_e3676a3f66794b80bd62dffc92bavide.f20.mp4"));
-
-            videoList.add(new VideoBean("",
                     "http://xp.qpic.cn/oscar_pic/0/1047_30646239313130382d306330392pict/480",
                     "http://123.125.10.236/v.weishi.qq.com/shg_193622498_1047_65b2a00f51c14956b602b7275757vide.f20.mp4"));
 
@@ -79,10 +75,6 @@ public class VideoBean {
             videoList.add(new VideoBean("",
                     "http://xp.qpic.cn/oscar_pic/0/1047_63323637383439642d636634302pict/480",
                     "http://123.125.244.84/v.weishi.qq.com/tjg_660467533_1047_88ae7ef740f14486872229d22dd5vide.f20.mp4"));
-
-            videoList.add(new VideoBean("",
-                    "http://xp.qpic.cn/oscar_pic/0/1047_63383966313334352d623962322pict/480",
-                    "http://123.125.244.84/v.weishi.qq.com/shg_1634039903_1047_e3676a3f66794b80bd62dffc92bavide.f20.mp4"));
 
             videoList.add(new VideoBean("",
                     "http://xp.qpic.cn/oscar_pic/0/1047_30646239313130382d306330392pict/480",
